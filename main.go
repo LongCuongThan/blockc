@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "huy_smart/huy_test"
 
 func main() {
-	fmt.Println("Hello World")
+	huy_test.Testing()
 }
